@@ -1,0 +1,10 @@
+fastapi
+groq
+elevenlabs
+gtts
+speechrecognition
+pydub
+pyaudio
+uvicorn[standard]
+python-dotenv
+python-multipart
